@@ -19,9 +19,9 @@ export const robots = [
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
+      name: 'anurag',
       username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      email: '2017UEC1581@mnit.ac.in'
     },
     {
       id: 5,
