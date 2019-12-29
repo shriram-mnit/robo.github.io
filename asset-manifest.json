@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robo.github.io/static/css/main.5f778e1b.chunk.css",
+    "main.js": "/robo.github.io/static/js/main.0cde22fe.chunk.js",
+    "main.js.map": "/robo.github.io/static/js/main.0cde22fe.chunk.js.map",
+    "runtime-main.js": "/robo.github.io/static/js/runtime-main.0180257a.js",
+    "runtime-main.js.map": "/robo.github.io/static/js/runtime-main.0180257a.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robo.github.io/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c7991b8a.chunk.js": "/robo.github.io/static/js/2.c7991b8a.chunk.js",
+    "static/js/2.c7991b8a.chunk.js.map": "/robo.github.io/static/js/2.c7991b8a.chunk.js.map",
+    "index.html": "/robo.github.io/index.html",
+    "precache-manifest.336c131406e9750e0ab9d258a7fd78c5.js": "/robo.github.io/precache-manifest.336c131406e9750e0ab9d258a7fd78c5.js",
+    "service-worker.js": "/robo.github.io/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robo.github.io/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5f778e1b.chunk.css.map": "/robo.github.io/static/css/main.5f778e1b.chunk.css.map",
+    "static/js/2.c7991b8a.chunk.js.LICENSE": "/robo.github.io/static/js/2.c7991b8a.chunk.js.LICENSE",
+    "static/media/App.css": "/robo.github.io/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0180257a.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c7991b8a.chunk.js",
+    "static/css/main.5f778e1b.chunk.css",
+    "static/js/main.0cde22fe.chunk.js"
+  ]
+}
