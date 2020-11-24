@@ -49,7 +49,7 @@ export const robots = [
     },
     {
       id: 9,
-      name: 'kaustub mani',
+      name: 'kausthub mani',
       username: 'goldman sachs',
       email: '2017uec1603@mnit.ac.in'
     }
